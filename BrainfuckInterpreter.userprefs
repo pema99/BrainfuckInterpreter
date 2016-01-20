@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="BrainfuckInterpreter/BrainfuckInterpreter.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BrainfuckInterpreter/Program.cs">
+    <Files>
+      <File FileName="BrainfuckInterpreter/Program.cs" Line="19" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
